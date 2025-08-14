@@ -1,0 +1,827 @@
+[
+    {
+        "id": 3,
+        "nombre": "Zombi radiactivo",
+        "vida": 120,
+        "atributos": {
+            "strenght": 10,
+            "perception": 4,
+            "endurance": 9,
+            "carisma": 0,
+            "inteligence": 1,
+            "luck": 2
+        },
+        "hambre": 90,
+        "sed": 30,
+        "energia": 40,
+        "estado": "Errante",
+        "memoria": [],
+        "nivelEstres": 0,
+        "fatiga": 50,
+        "edad": 0,
+        "reproduccion": false,
+        "sexo": "Desconocido",
+        "alimentacion": "Necr\u00f3fago",
+        "vision": 4,
+        "posicion": "posicionBase",
+        "enemigos": [
+            "Bandido",
+            "Lobo salvaje"
+        ],
+        "arma": {
+            "nombre": "Manos podridas"
+        }
+    },
+    {
+        "id": 1,
+        "nombre": "Bandido",
+        "vida": 100,
+        "atributos": {
+            "strenght": 8,
+            "perception": 6,
+            "endurance": 7,
+            "carisma": 3,
+            "inteligence": 5,
+            "luck": 4
+        },
+        "hambre": 60,
+        "sed": 50,
+        "energia": 70,
+        "estado": "Agresivo",
+        "memoria": [],
+        "nivelEstres": 30,
+        "fatiga": 20,
+        "edad": 35,
+        "reproduccion": false,
+        "sexo": "Masculino",
+        "alimentacion": "Omn\u00edvoro",
+        "vision": 5,
+        "posicion": "posicionBase",
+        "enemigos": [
+            "Zombi radioactivo",
+            "Lobo salvaje"
+        ],
+        "arma": {
+            "nombre": "Pistola oxidada"
+        }
+    },
+    {
+        "id": 1,
+        "nombre": "Bandido",
+        "vida": 100,
+        "atributos": {
+            "strenght": 8,
+            "perception": 6,
+            "endurance": 7,
+            "carisma": 3,
+            "inteligence": 5,
+            "luck": 4
+        },
+        "hambre": 60,
+        "sed": 50,
+        "energia": 70,
+        "estado": "Agresivo",
+        "memoria": [],
+        "nivelEstres": 30,
+        "fatiga": 20,
+        "edad": 35,
+        "reproduccion": false,
+        "sexo": "Masculino",
+        "alimentacion": "Omn\u00edvoro",
+        "vision": 5,
+        "posicion": "posicionBase",
+        "enemigos": [
+            "Zombi radioactivo",
+            "Lobo salvaje"
+        ],
+        "arma": {
+            "nombre": "Pistola oxidada"
+        }
+    },
+    {
+        "id": 2,
+        "nombre": "Lobo salvaje",
+        "vida": 80,
+        "atributos": {
+            "strenght": 7,
+            "perception": 8,
+            "endurance": 6,
+            "carisma": 1,
+            "inteligence": 3,
+            "luck": 5
+        },
+        "hambre": 80,
+        "sed": 70,
+        "energia": 90,
+        "estado": "Cazando",
+        "memoria": [],
+        "nivelEstres": 10,
+        "fatiga": 15,
+        "edad": 6,
+        "reproduccion": true,
+        "sexo": "Hembra",
+        "alimentacion": "Carn\u00edvoro",
+        "vision": 10,
+        "posicion": "posicionBase",
+        "enemigos": [
+            "Bandido",
+            "Zombi radioactivo"
+        ],
+        "arma": {
+            "nombre": "Mand\u00edbulas"
+        }
+    },
+    {
+        "id": 3,
+        "nombre": "Zombi radiactivo",
+        "vida": 120,
+        "atributos": {
+            "strenght": 10,
+            "perception": 4,
+            "endurance": 9,
+            "carisma": 0,
+            "inteligence": 1,
+            "luck": 2
+        },
+        "hambre": 90,
+        "sed": 30,
+        "energia": 40,
+        "estado": "Errante",
+        "memoria": [],
+        "nivelEstres": 0,
+        "fatiga": 50,
+        "edad": 0,
+        "reproduccion": false,
+        "sexo": "Desconocido",
+        "alimentacion": "Necr\u00f3fago",
+        "vision": 4,
+        "posicion": "posicionBase",
+        "enemigos": [
+            "Bandido",
+            "Lobo salvaje"
+        ],
+        "arma": {
+            "nombre": "Manos podridas"
+        }
+    },
+    {
+        "id": 1,
+        "nombre": "Bandido",
+        "vida": 100,
+        "atributos": {
+            "strenght": 8,
+            "perception": 6,
+            "endurance": 7,
+            "carisma": 3,
+            "inteligence": 5,
+            "luck": 4
+        },
+        "hambre": 60,
+        "sed": 50,
+        "energia": 70,
+        "estado": "Agresivo",
+        "memoria": [],
+        "nivelEstres": 30,
+        "fatiga": 20,
+        "edad": 35,
+        "reproduccion": false,
+        "sexo": "Masculino",
+        "alimentacion": "Omn\u00edvoro",
+        "vision": 5,
+        "posicion": "posicionBase",
+        "enemigos": [
+            "Zombi radioactivo",
+            "Lobo salvaje"
+        ],
+        "arma": {
+            "nombre": "Pistola oxidada"
+        }
+    },
+    {
+        "id": 2,
+        "nombre": "Lobo salvaje",
+        "vida": 80,
+        "atributos": {
+            "strenght": 7,
+            "perception": 8,
+            "endurance": 6,
+            "carisma": 1,
+            "inteligence": 3,
+            "luck": 5
+        },
+        "hambre": 80,
+        "sed": 70,
+        "energia": 90,
+        "estado": "Cazando",
+        "memoria": [],
+        "nivelEstres": 10,
+        "fatiga": 15,
+        "edad": 6,
+        "reproduccion": true,
+        "sexo": "Hembra",
+        "alimentacion": "Carn\u00edvoro",
+        "vision": 10,
+        "posicion": "posicionBase",
+        "enemigos": [
+            "Bandido",
+            "Zombi radioactivo"
+        ],
+        "arma": {
+            "nombre": "Mand\u00edbulas"
+        }
+    },
+    {
+        "id": 3,
+        "nombre": "Zombi radiactivo",
+        "vida": 120,
+        "atributos": {
+            "strenght": 10,
+            "perception": 4,
+            "endurance": 9,
+            "carisma": 0,
+            "inteligence": 1,
+            "luck": 2
+        },
+        "hambre": 90,
+        "sed": 30,
+        "energia": 40,
+        "estado": "Errante",
+        "memoria": [],
+        "nivelEstres": 0,
+        "fatiga": 50,
+        "edad": 0,
+        "reproduccion": false,
+        "sexo": "Desconocido",
+        "alimentacion": "Necr\u00f3fago",
+        "vision": 4,
+        "posicion": "posicionBase",
+        "enemigos": [
+            "Bandido",
+            "Lobo salvaje"
+        ],
+        "arma": {
+            "nombre": "Manos podridas"
+        }
+    },
+    {
+        "id": 2,
+        "nombre": "Lobo salvaje",
+        "vida": 80,
+        "atributos": {
+            "strenght": 7,
+            "perception": 8,
+            "endurance": 6,
+            "carisma": 1,
+            "inteligence": 3,
+            "luck": 5
+        },
+        "hambre": 80,
+        "sed": 70,
+        "energia": 90,
+        "estado": "Cazando",
+        "memoria": [],
+        "nivelEstres": 10,
+        "fatiga": 15,
+        "edad": 6,
+        "reproduccion": true,
+        "sexo": "Hembra",
+        "alimentacion": "Carn\u00edvoro",
+        "vision": 10,
+        "posicion": "posicionBase",
+        "enemigos": [
+            "Bandido",
+            "Zombi radioactivo"
+        ],
+        "arma": {
+            "nombre": "Mand\u00edbulas"
+        }
+    },
+    {
+        "id": 1,
+        "nombre": "Bandido",
+        "vida": 100,
+        "atributos": {
+            "strenght": 8,
+            "perception": 6,
+            "endurance": 7,
+            "carisma": 3,
+            "inteligence": 5,
+            "luck": 4
+        },
+        "hambre": 60,
+        "sed": 50,
+        "energia": 70,
+        "estado": "Agresivo",
+        "memoria": [],
+        "nivelEstres": 30,
+        "fatiga": 20,
+        "edad": 35,
+        "reproduccion": false,
+        "sexo": "Masculino",
+        "alimentacion": "Omn\u00edvoro",
+        "vision": 5,
+        "posicion": "posicionBase",
+        "enemigos": [
+            "Zombi radioactivo",
+            "Lobo salvaje"
+        ],
+        "arma": {
+            "nombre": "Pistola oxidada"
+        }
+    },
+    {
+        "id": 3,
+        "nombre": "Zombi radiactivo",
+        "vida": 120,
+        "atributos": {
+            "strenght": 10,
+            "perception": 4,
+            "endurance": 9,
+            "carisma": 0,
+            "inteligence": 1,
+            "luck": 2
+        },
+        "hambre": 90,
+        "sed": 30,
+        "energia": 40,
+        "estado": "Errante",
+        "memoria": [],
+        "nivelEstres": 0,
+        "fatiga": 50,
+        "edad": 0,
+        "reproduccion": false,
+        "sexo": "Desconocido",
+        "alimentacion": "Necr\u00f3fago",
+        "vision": 4,
+        "posicion": "posicionBase",
+        "enemigos": [
+            "Bandido",
+            "Lobo salvaje"
+        ],
+        "arma": {
+            "nombre": "Manos podridas"
+        }
+    },
+    {
+        "id": 3,
+        "nombre": "Zombi radiactivo",
+        "vida": 120,
+        "atributos": {
+            "strenght": 10,
+            "perception": 4,
+            "endurance": 9,
+            "carisma": 0,
+            "inteligence": 1,
+            "luck": 2
+        },
+        "hambre": 90,
+        "sed": 30,
+        "energia": 40,
+        "estado": "Errante",
+        "memoria": [],
+        "nivelEstres": 0,
+        "fatiga": 50,
+        "edad": 0,
+        "reproduccion": false,
+        "sexo": "Desconocido",
+        "alimentacion": "Necr\u00f3fago",
+        "vision": 4,
+        "posicion": "posicionBase",
+        "enemigos": [
+            "Bandido",
+            "Lobo salvaje"
+        ],
+        "arma": {
+            "nombre": "Manos podridas"
+        }
+    },
+    {
+        "id": 3,
+        "nombre": "Zombi radiactivo",
+        "vida": 120,
+        "atributos": {
+            "strenght": 10,
+            "perception": 4,
+            "endurance": 9,
+            "carisma": 0,
+            "inteligence": 1,
+            "luck": 2
+        },
+        "hambre": 90,
+        "sed": 30,
+        "energia": 40,
+        "estado": "Errante",
+        "memoria": [],
+        "nivelEstres": 0,
+        "fatiga": 50,
+        "edad": 0,
+        "reproduccion": false,
+        "sexo": "Desconocido",
+        "alimentacion": "Necr\u00f3fago",
+        "vision": 4,
+        "posicion": "posicionBase",
+        "enemigos": [
+            "Bandido",
+            "Lobo salvaje"
+        ],
+        "arma": {
+            "nombre": "Manos podridas"
+        }
+    },
+    {
+        "id": 1,
+        "nombre": "Bandido",
+        "vida": 100,
+        "atributos": {
+            "strenght": 8,
+            "perception": 6,
+            "endurance": 7,
+            "carisma": 3,
+            "inteligence": 5,
+            "luck": 4
+        },
+        "hambre": 60,
+        "sed": 50,
+        "energia": 70,
+        "estado": "Agresivo",
+        "memoria": [],
+        "nivelEstres": 30,
+        "fatiga": 20,
+        "edad": 35,
+        "reproduccion": false,
+        "sexo": "Masculino",
+        "alimentacion": "Omn\u00edvoro",
+        "vision": 5,
+        "posicion": "posicionBase",
+        "enemigos": [
+            "Zombi radioactivo",
+            "Lobo salvaje"
+        ],
+        "arma": {
+            "nombre": "Pistola oxidada"
+        }
+    },
+    {
+        "id": 2,
+        "nombre": "Lobo salvaje",
+        "vida": 80,
+        "atributos": {
+            "strenght": 7,
+            "perception": 8,
+            "endurance": 6,
+            "carisma": 1,
+            "inteligence": 3,
+            "luck": 5
+        },
+        "hambre": 80,
+        "sed": 70,
+        "energia": 90,
+        "estado": "Cazando",
+        "memoria": [],
+        "nivelEstres": 10,
+        "fatiga": 15,
+        "edad": 6,
+        "reproduccion": true,
+        "sexo": "Hembra",
+        "alimentacion": "Carn\u00edvoro",
+        "vision": 10,
+        "posicion": "posicionBase",
+        "enemigos": [
+            "Bandido",
+            "Zombi radioactivo"
+        ],
+        "arma": {
+            "nombre": "Mand\u00edbulas"
+        }
+    },
+    {
+        "id": 1,
+        "nombre": "Bandido",
+        "vida": 100,
+        "atributos": {
+            "strenght": 8,
+            "perception": 6,
+            "endurance": 7,
+            "carisma": 3,
+            "inteligence": 5,
+            "luck": 4
+        },
+        "hambre": 60,
+        "sed": 50,
+        "energia": 70,
+        "estado": "Agresivo",
+        "memoria": [],
+        "nivelEstres": 30,
+        "fatiga": 20,
+        "edad": 35,
+        "reproduccion": false,
+        "sexo": "Masculino",
+        "alimentacion": "Omn\u00edvoro",
+        "vision": 5,
+        "posicion": "posicionBase",
+        "enemigos": [
+            "Zombi radioactivo",
+            "Lobo salvaje"
+        ],
+        "arma": {
+            "nombre": "Pistola oxidada"
+        }
+    },
+    {
+        "id": 2,
+        "nombre": "Lobo salvaje",
+        "vida": 80,
+        "atributos": {
+            "strenght": 7,
+            "perception": 8,
+            "endurance": 6,
+            "carisma": 1,
+            "inteligence": 3,
+            "luck": 5
+        },
+        "hambre": 80,
+        "sed": 70,
+        "energia": 90,
+        "estado": "Cazando",
+        "memoria": [],
+        "nivelEstres": 10,
+        "fatiga": 15,
+        "edad": 6,
+        "reproduccion": true,
+        "sexo": "Hembra",
+        "alimentacion": "Carn\u00edvoro",
+        "vision": 10,
+        "posicion": "posicionBase",
+        "enemigos": [
+            "Bandido",
+            "Zombi radioactivo"
+        ],
+        "arma": {
+            "nombre": "Mand\u00edbulas"
+        }
+    },
+    {
+        "id": 3,
+        "nombre": "Zombi radiactivo",
+        "vida": 120,
+        "atributos": {
+            "strenght": 10,
+            "perception": 4,
+            "endurance": 9,
+            "carisma": 0,
+            "inteligence": 1,
+            "luck": 2
+        },
+        "hambre": 90,
+        "sed": 30,
+        "energia": 40,
+        "estado": "Errante",
+        "memoria": [],
+        "nivelEstres": 0,
+        "fatiga": 50,
+        "edad": 0,
+        "reproduccion": false,
+        "sexo": "Desconocido",
+        "alimentacion": "Necr\u00f3fago",
+        "vision": 4,
+        "posicion": "posicionBase",
+        "enemigos": [
+            "Bandido",
+            "Lobo salvaje"
+        ],
+        "arma": {
+            "nombre": "Manos podridas"
+        }
+    },
+    {
+        "id": 1,
+        "nombre": "Bandido",
+        "vida": 100,
+        "atributos": {
+            "strenght": 8,
+            "perception": 6,
+            "endurance": 7,
+            "carisma": 3,
+            "inteligence": 5,
+            "luck": 4
+        },
+        "hambre": 60,
+        "sed": 50,
+        "energia": 70,
+        "estado": "Agresivo",
+        "memoria": [],
+        "nivelEstres": 30,
+        "fatiga": 20,
+        "edad": 35,
+        "reproduccion": false,
+        "sexo": "Masculino",
+        "alimentacion": "Omn\u00edvoro",
+        "vision": 5,
+        "posicion": "posicionBase",
+        "enemigos": [
+            "Zombi radioactivo",
+            "Lobo salvaje"
+        ],
+        "arma": {
+            "nombre": "Pistola oxidada"
+        }
+    },
+    {
+        "id": 1,
+        "nombre": "Bandido",
+        "vida": 100,
+        "atributos": {
+            "strenght": 8,
+            "perception": 6,
+            "endurance": 7,
+            "carisma": 3,
+            "inteligence": 5,
+            "luck": 4
+        },
+        "hambre": 60,
+        "sed": 50,
+        "energia": 70,
+        "estado": "Agresivo",
+        "memoria": [],
+        "nivelEstres": 30,
+        "fatiga": 20,
+        "edad": 35,
+        "reproduccion": false,
+        "sexo": "Masculino",
+        "alimentacion": "Omn\u00edvoro",
+        "vision": 5,
+        "posicion": "posicionBase",
+        "enemigos": [
+            "Zombi radioactivo",
+            "Lobo salvaje"
+        ],
+        "arma": {
+            "nombre": "Pistola oxidada"
+        }
+    },
+    {
+        "id": 2,
+        "nombre": "Lobo salvaje",
+        "vida": 80,
+        "atributos": {
+            "strenght": 7,
+            "perception": 8,
+            "endurance": 6,
+            "carisma": 1,
+            "inteligence": 3,
+            "luck": 5
+        },
+        "hambre": 80,
+        "sed": 70,
+        "energia": 90,
+        "estado": "Cazando",
+        "memoria": [],
+        "nivelEstres": 10,
+        "fatiga": 15,
+        "edad": 6,
+        "reproduccion": true,
+        "sexo": "Hembra",
+        "alimentacion": "Carn\u00edvoro",
+        "vision": 10,
+        "posicion": "posicionBase",
+        "enemigos": [
+            "Bandido",
+            "Zombi radioactivo"
+        ],
+        "arma": {
+            "nombre": "Mand\u00edbulas"
+        }
+    },
+    {
+        "id": 1,
+        "nombre": "Bandido",
+        "vida": 100,
+        "atributos": {
+            "strenght": 8,
+            "perception": 6,
+            "endurance": 7,
+            "carisma": 3,
+            "inteligence": 5,
+            "luck": 4
+        },
+        "hambre": 60,
+        "sed": 50,
+        "energia": 70,
+        "estado": "Agresivo",
+        "memoria": [],
+        "nivelEstres": 30,
+        "fatiga": 20,
+        "edad": 35,
+        "reproduccion": false,
+        "sexo": "Masculino",
+        "alimentacion": "Omn\u00edvoro",
+        "vision": 5,
+        "posicion": "posicionBase",
+        "enemigos": [
+            "Zombi radioactivo",
+            "Lobo salvaje"
+        ],
+        "arma": {
+            "nombre": "Pistola oxidada"
+        }
+    },
+    {
+        "id": 1,
+        "nombre": "Bandido",
+        "vida": 100,
+        "atributos": {
+            "strenght": 8,
+            "perception": 6,
+            "endurance": 7,
+            "carisma": 3,
+            "inteligence": 5,
+            "luck": 4
+        },
+        "hambre": 60,
+        "sed": 50,
+        "energia": 70,
+        "estado": "Agresivo",
+        "memoria": [],
+        "nivelEstres": 30,
+        "fatiga": 20,
+        "edad": 35,
+        "reproduccion": false,
+        "sexo": "Masculino",
+        "alimentacion": "Omn\u00edvoro",
+        "vision": 5,
+        "posicion": "posicionBase",
+        "enemigos": [
+            "Zombi radioactivo",
+            "Lobo salvaje"
+        ],
+        "arma": {
+            "nombre": "Pistola oxidada"
+        }
+    },
+    {
+        "id": 1,
+        "nombre": "Bandido",
+        "vida": 100,
+        "atributos": {
+            "strenght": 8,
+            "perception": 6,
+            "endurance": 7,
+            "carisma": 3,
+            "inteligence": 5,
+            "luck": 4
+        },
+        "hambre": 60,
+        "sed": 50,
+        "energia": 70,
+        "estado": "Agresivo",
+        "memoria": [],
+        "nivelEstres": 30,
+        "fatiga": 20,
+        "edad": 35,
+        "reproduccion": false,
+        "sexo": "Masculino",
+        "alimentacion": "Omn\u00edvoro",
+        "vision": 5,
+        "posicion": "posicionBase",
+        "enemigos": [
+            "Zombi radioactivo",
+            "Lobo salvaje"
+        ],
+        "arma": {
+            "nombre": "Pistola oxidada"
+        }
+    },
+    {
+        "id": 1,
+        "nombre": "Bandido",
+        "vida": 100,
+        "atributos": {
+            "strenght": 8,
+            "perception": 6,
+            "endurance": 7,
+            "carisma": 3,
+            "inteligence": 5,
+            "luck": 4
+        },
+        "hambre": 60,
+        "sed": 50,
+        "energia": 70,
+        "estado": "Agresivo",
+        "memoria": [],
+        "nivelEstres": 30,
+        "fatiga": 20,
+        "edad": 35,
+        "reproduccion": false,
+        "sexo": "Masculino",
+        "alimentacion": "Omn\u00edvoro",
+        "vision": 5,
+        "posicion": "posicionBase",
+        "enemigos": [
+            "Zombi radioactivo",
+            "Lobo salvaje"
+        ],
+        "arma": {
+            "nombre": "Pistola oxidada"
+        }
+    }
+]

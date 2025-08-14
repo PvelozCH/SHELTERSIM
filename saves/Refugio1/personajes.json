@@ -1,0 +1,147 @@
+[
+    {
+        "id": 1,
+        "nombre": "Deborah Johnson",
+        "vida": 100,
+        "atributos": {
+            "strenght": 6,
+            "perception": 7,
+            "endurance": 9,
+            "carisma": 6,
+            "inteligence": 10,
+            "luck": 6
+        },
+        "hambre": 0,
+        "sed": 0,
+        "energia": 100,
+        "estado": "tranquilo",
+        "memoria": 0,
+        "nivelEstres": 0,
+        "fatiga": 0,
+        "edad": 18,
+        "reproduccion": "Sexual",
+        "sexo": "Femenino",
+        "alimentacion": "Omnivoro",
+        "vision": 5,
+        "posicion": "posicionBase",
+        "arma": {
+            "nombre": "Escopeta"
+        }
+    },
+    {
+        "id": 2,
+        "nombre": "Jessica Mitchell",
+        "vida": 100,
+        "atributos": {
+            "strenght": 6,
+            "perception": 7,
+            "endurance": 9,
+            "carisma": 6,
+            "inteligence": 10,
+            "luck": 6
+        },
+        "hambre": 0,
+        "sed": 0,
+        "energia": 100,
+        "estado": "tranquilo",
+        "memoria": 0,
+        "nivelEstres": 0,
+        "fatiga": 0,
+        "edad": 18,
+        "reproduccion": "Sexual",
+        "sexo": "Femenino",
+        "alimentacion": "Omnivoro",
+        "vision": 5,
+        "posicion": "posicionBase",
+        "arma": {
+            "nombre": "Lanzallamas Avanzado"
+        }
+    },
+    {
+        "id": 3,
+        "nombre": "Robert Adams",
+        "vida": 100,
+        "atributos": {
+            "strenght": 6,
+            "perception": 7,
+            "endurance": 9,
+            "carisma": 6,
+            "inteligence": 10,
+            "luck": 6
+        },
+        "hambre": 0,
+        "sed": 0,
+        "energia": 100,
+        "estado": "tranquilo",
+        "memoria": 0,
+        "nivelEstres": 0,
+        "fatiga": 0,
+        "edad": 18,
+        "reproduccion": "Sexual",
+        "sexo": "Masculino",
+        "alimentacion": "Omnivoro",
+        "vision": 5,
+        "posicion": "posicionBase",
+        "arma": {
+            "nombre": "Pistola de 9mm"
+        }
+    },
+    {
+        "id": 4,
+        "nombre": "Melissa Mitchell",
+        "vida": 100,
+        "atributos": {
+            "strenght": 6,
+            "perception": 7,
+            "endurance": 9,
+            "carisma": 6,
+            "inteligence": 10,
+            "luck": 6
+        },
+        "hambre": 0,
+        "sed": 0,
+        "energia": 100,
+        "estado": "tranquilo",
+        "memoria": 0,
+        "nivelEstres": 0,
+        "fatiga": 0,
+        "edad": 18,
+        "reproduccion": "Sexual",
+        "sexo": "Femenino",
+        "alimentacion": "Omnivoro",
+        "vision": 5,
+        "posicion": "posicionBase",
+        "arma": {
+            "nombre": "Rifle de francotirador"
+        }
+    },
+    {
+        "id": 5,
+        "nombre": "Michelle Perez",
+        "vida": 100,
+        "atributos": {
+            "strenght": 6,
+            "perception": 7,
+            "endurance": 9,
+            "carisma": 6,
+            "inteligence": 10,
+            "luck": 6
+        },
+        "hambre": 0,
+        "sed": 0,
+        "energia": 100,
+        "estado": "tranquilo",
+        "memoria": 0,
+        "nivelEstres": 0,
+        "fatiga": 0,
+        "edad": 18,
+        "reproduccion": "Sexual",
+        "sexo": "Femenino",
+        "alimentacion": "Omnivoro",
+        "vision": 5,
+        "posicion": "posicionBase",
+        "arma": {
+            "nombre": "Rifle de Asalto del Enclave"
+        }
+    }
+]

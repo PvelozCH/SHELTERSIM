@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "nombre": "Habitación",
+        "criaturas":[],
+        "items": [],
+        "comidas": [],
+        "armas": []
+    },
+    {
+        "id": 2,
+        "nombre": "Cocina",
+        "criaturas": [],
+        "items": [],
+        "comidas": [],
+        "armas": []
+    },
+    {
+        "id": 6,
+        "nombre": "Sala de estar",
+        "criaturas": [],
+        "items": [],
+        "comidas": [],
+        "armas": []
+    },
+    {
+        "id": 7,
+        "nombre": "Biblioteca",
+        "criaturas": [],
+        "items": [],
+        "comidas": [],
+        "armas": []
+    },
+    {
+        "id": 3,
+        "nombre": "Almacén",
+        "criaturas": [],
+        "items": [],
+        "comidas": [],
+        "armas": []
+    },
+    {
+        "id": 4,
+        "nombre": "Sala de vigilancia",
+        "criaturas": [],
+        "items": [],
+        "comidas": [],
+        "armas": []
+    },
+    {
+        "id": 5,
+        "nombre": "Laboratorio",
+        "criaturas": [],
+        "items": [],
+        "comidas": [],
+        "armas": []
+    }
+]

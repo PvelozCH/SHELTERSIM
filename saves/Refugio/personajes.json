@@ -1,0 +1,147 @@
+[
+    {
+        "id": 1,
+        "nombre": "Laura Lopez",
+        "vida": 100,
+        "atributos": {
+            "strenght": 10,
+            "perception": 7,
+            "endurance": 6,
+            "carisma": 8,
+            "inteligence": 10,
+            "luck": 7
+        },
+        "hambre": 0,
+        "sed": 0,
+        "energia": 100,
+        "estado": "tranquilo",
+        "memoria": 0,
+        "nivelEstres": 0,
+        "fatiga": 0,
+        "edad": 18,
+        "reproduccion": "Sexual",
+        "sexo": "Femenino",
+        "alimentacion": "Omnivoro",
+        "vision": 5,
+        "posicion": "posicionBase",
+        "arma": {
+            "nombre": "Rifle de Asalto del Enclave"
+        }
+    },
+    {
+        "id": 2,
+        "nombre": "James Garcia",
+        "vida": 100,
+        "atributos": {
+            "strenght": 10,
+            "perception": 7,
+            "endurance": 6,
+            "carisma": 8,
+            "inteligence": 10,
+            "luck": 7
+        },
+        "hambre": 0,
+        "sed": 0,
+        "energia": 100,
+        "estado": "tranquilo",
+        "memoria": 0,
+        "nivelEstres": 0,
+        "fatiga": 0,
+        "edad": 18,
+        "reproduccion": "Sexual",
+        "sexo": "Masculino",
+        "alimentacion": "Omnivoro",
+        "vision": 5,
+        "posicion": "posicionBase",
+        "arma": {
+            "nombre": "Rifle de caza"
+        }
+    },
+    {
+        "id": 3,
+        "nombre": "Thomas Phillips",
+        "vida": 100,
+        "atributos": {
+            "strenght": 10,
+            "perception": 7,
+            "endurance": 6,
+            "carisma": 8,
+            "inteligence": 10,
+            "luck": 7
+        },
+        "hambre": 0,
+        "sed": 0,
+        "energia": 100,
+        "estado": "tranquilo",
+        "memoria": 0,
+        "nivelEstres": 0,
+        "fatiga": 0,
+        "edad": 18,
+        "reproduccion": "Sexual",
+        "sexo": "Masculino",
+        "alimentacion": "Omnivoro",
+        "vision": 5,
+        "posicion": "posicionBase",
+        "arma": {
+            "nombre": "Pistola L\u00e1ser del Instituto"
+        }
+    },
+    {
+        "id": 4,
+        "nombre": "Thomas Ramirez",
+        "vida": 100,
+        "atributos": {
+            "strenght": 10,
+            "perception": 7,
+            "endurance": 6,
+            "carisma": 8,
+            "inteligence": 10,
+            "luck": 7
+        },
+        "hambre": 0,
+        "sed": 0,
+        "energia": 100,
+        "estado": "tranquilo",
+        "memoria": 0,
+        "nivelEstres": 0,
+        "fatiga": 0,
+        "edad": 18,
+        "reproduccion": "Sexual",
+        "sexo": "Masculino",
+        "alimentacion": "Omnivoro",
+        "vision": 5,
+        "posicion": "posicionBase",
+        "arma": {
+            "nombre": "Rifle de caza"
+        }
+    },
+    {
+        "id": 5,
+        "nombre": "Thomas Allen",
+        "vida": 100,
+        "atributos": {
+            "strenght": 10,
+            "perception": 7,
+            "endurance": 6,
+            "carisma": 8,
+            "inteligence": 10,
+            "luck": 7
+        },
+        "hambre": 0,
+        "sed": 0,
+        "energia": 100,
+        "estado": "tranquilo",
+        "memoria": 0,
+        "nivelEstres": 0,
+        "fatiga": 0,
+        "edad": 18,
+        "reproduccion": "Sexual",
+        "sexo": "Masculino",
+        "alimentacion": "Omnivoro",
+        "vision": 5,
+        "posicion": "posicionBase",
+        "arma": {
+            "nombre": "Pistola l\u00e1ser"
+        }
+    }
+]
