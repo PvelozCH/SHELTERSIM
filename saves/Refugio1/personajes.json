@@ -1,43 +1,14 @@
 [
     {
         "id": 1,
-        "nombre": "Deborah Johnson",
+        "nombre": "Nancy Ramirez",
         "vida": 100,
         "atributos": {
-            "strenght": 6,
-            "perception": 7,
+            "strenght": 10,
+            "perception": 8,
             "endurance": 9,
             "carisma": 6,
-            "inteligence": 10,
-            "luck": 6
-        },
-        "hambre": 0,
-        "sed": 0,
-        "energia": 100,
-        "estado": "tranquilo",
-        "memoria": 0,
-        "nivelEstres": 0,
-        "fatiga": 0,
-        "edad": 18,
-        "reproduccion": "Sexual",
-        "sexo": "Femenino",
-        "alimentacion": "Omnivoro",
-        "vision": 5,
-        "posicion": "posicionBase",
-        "arma": {
-            "nombre": "Escopeta"
-        }
-    },
-    {
-        "id": 2,
-        "nombre": "Jessica Mitchell",
-        "vida": 100,
-        "atributos": {
-            "strenght": 6,
-            "perception": 7,
-            "endurance": 9,
-            "carisma": 6,
-            "inteligence": 10,
+            "inteligence": 7,
             "luck": 6
         },
         "hambre": 0,
@@ -58,15 +29,15 @@
         }
     },
     {
-        "id": 3,
-        "nombre": "Robert Adams",
+        "id": 2,
+        "nombre": "Kevin Roberts",
         "vida": 100,
         "atributos": {
-            "strenght": 6,
-            "perception": 7,
+            "strenght": 10,
+            "perception": 8,
             "endurance": 9,
             "carisma": 6,
-            "inteligence": 10,
+            "inteligence": 7,
             "luck": 6
         },
         "hambre": 0,
@@ -83,19 +54,19 @@
         "vision": 5,
         "posicion": "posicionBase",
         "arma": {
-            "nombre": "Pistola de 9mm"
+            "nombre": "Rifle de caza"
         }
     },
     {
-        "id": 4,
-        "nombre": "Melissa Mitchell",
+        "id": 3,
+        "nombre": "Dorothy Young",
         "vida": 100,
         "atributos": {
-            "strenght": 6,
-            "perception": 7,
+            "strenght": 10,
+            "perception": 8,
             "endurance": 9,
             "carisma": 6,
-            "inteligence": 10,
+            "inteligence": 7,
             "luck": 6
         },
         "hambre": 0,
@@ -112,19 +83,48 @@
         "vision": 5,
         "posicion": "posicionBase",
         "arma": {
-            "nombre": "Rifle de francotirador"
+            "nombre": "Desintegrador del Enclave"
+        }
+    },
+    {
+        "id": 4,
+        "nombre": "Amanda Lee",
+        "vida": 100,
+        "atributos": {
+            "strenght": 10,
+            "perception": 8,
+            "endurance": 9,
+            "carisma": 6,
+            "inteligence": 7,
+            "luck": 6
+        },
+        "hambre": 0,
+        "sed": 0,
+        "energia": 100,
+        "estado": "tranquilo",
+        "memoria": 0,
+        "nivelEstres": 0,
+        "fatiga": 0,
+        "edad": 18,
+        "reproduccion": "Sexual",
+        "sexo": "Femenino",
+        "alimentacion": "Omnivoro",
+        "vision": 5,
+        "posicion": "posicionBase",
+        "arma": {
+            "nombre": "Pistola l\u00e1ser"
         }
     },
     {
         "id": 5,
-        "nombre": "Michelle Perez",
+        "nombre": "Michelle Turner",
         "vida": 100,
         "atributos": {
-            "strenght": 6,
-            "perception": 7,
+            "strenght": 10,
+            "perception": 8,
             "endurance": 9,
             "carisma": 6,
-            "inteligence": 10,
+            "inteligence": 7,
             "luck": 6
         },
         "hambre": 0,

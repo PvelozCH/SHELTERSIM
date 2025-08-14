@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "numPiezas": 4,
+        "piezas": [1, 2, 3, 4],
+        "edificio": 1
+    },
+    {
+        "id": 2,
+        "numPiezas": 3,
+        "piezas": [5, 6, 7],
+        "edificio": 1
+    },
+    {
+        "id": 3,
+        "numPiezas": 2,
+        "piezas": [8, 9],
+        "edificio": 1
+    },
+    {
+        "id": 4,
+        "numPiezas": 1,
+        "piezas": [10],
+        "edificio": 2
+    }
+]

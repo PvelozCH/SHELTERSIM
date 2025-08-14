@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "nombre": "Refugio",
+        "color": "verde",
+        "numPisos": 3
+    },
+    {
+        "id": 2,
+        "nombre": "Torre de vigilancia",
+        "color": "gris",
+        "numPisos": 5
+    },
+    {
+        "id": 3,
+        "nombre": "Almacén",
+        "color": "marron",
+        "numPisos": 2
+    },
+    {
+        "id": 4,
+        "nombre": "Hospital",
+        "color": "blanco",
+        "numPisos": 4
+    },
+    {
+        "id": 5,
+        "nombre": "Laboratorio",
+        "color": "azul",
+        "numPisos": 3
+    },
+    {
+    	"id": 6,
+    	"nombre": "Casa Pequena",
+    	"color": "Blanca",
+    	"numPisos": 1
+    },
+    {
+    	"id": 7,
+    	"nombre": "Casa Mediana",
+    	"color": "Blanca",
+    	"numPisos": 2
+    },
+    {
+    	"id": 8,
+    	"nombre": "Departamento Pequeno",
+    	"color": "Blanca",
+    	"numPisos": 3
+    }
+]
